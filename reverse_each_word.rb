@@ -5,6 +5,6 @@ end
 end
 def reverse_each_word (array)
   array.collect do
-    puts "verifying that collect is being colled"
+    puts "Hi again, just making sure it's reversed! "
   end
 end
